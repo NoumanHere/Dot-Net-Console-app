@@ -1,0 +1,13 @@
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/bin/Debug/netcoreapp3.1/Dot Net Console
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/bin/Debug/netcoreapp3.1/Dot Net Console.deps.json
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/bin/Debug/netcoreapp3.1/Dot Net Console.runtimeconfig.json
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/bin/Debug/netcoreapp3.1/Dot Net Console.runtimeconfig.dev.json
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/bin/Debug/netcoreapp3.1/Dot Net Console.dll
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/bin/Debug/netcoreapp3.1/Dot Net Console.pdb
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/obj/Debug/netcoreapp3.1/Dot Net Console.csprojAssemblyReference.cache
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/obj/Debug/netcoreapp3.1/Dot Net Console.AssemblyInfoInputs.cache
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/obj/Debug/netcoreapp3.1/Dot Net Console.AssemblyInfo.cs
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/obj/Debug/netcoreapp3.1/Dot Net Console.csproj.CoreCompileInputs.cache
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/obj/Debug/netcoreapp3.1/Dot Net Console.dll
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/obj/Debug/netcoreapp3.1/Dot Net Console.pdb
+/home/nouman/STUDY/DevOps/Azure Devops (Pipelines)/Dot Net Console/obj/Debug/netcoreapp3.1/Dot Net Console.genruntimeconfig.cache
